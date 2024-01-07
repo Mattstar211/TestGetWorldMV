@@ -1,0 +1,4 @@
+name: TestGetWorldMV
+version: '${project.version}'
+main: org.example1.testgetworldmv.TestGetWorldMV
+api-version: '1.16'
